@@ -26,7 +26,7 @@ body {
 
 #display {
   grid-column: 1 / -1;
-  background-color: #cbce91ff;
+  background-color: white;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -53,15 +53,15 @@ button {
 }
 
 .operator {
-  background-color: #ff8f1f;
+  background-color: #ea738dff;
 }
 
 .operator:focus {
-  background-color: #ffc183;
+  background-color: #ea738dff;
 }
 
 .equals {
-  background-color: #ff8f1f;
+  background-color: #ea738dff;
 }
 
 .equals:active {
@@ -69,41 +69,41 @@ button {
 }
 
 .operand {
-  background-color: #217c7e;
+  background-color: #cbce91ff;
 }
 
 .operand:active {
-  background-color: #33b9bb;
+  background-color: #cbce91ff;
 }
 
 .decimal {
-  background-color: #217c7e;
+  background-color: #cbce91ff;
 }
 
 .decimal:active {
-  background-color: #33b9bb;
+  background-color: #cbce91ff;
 }
 
 .clear {
-  background-color: dodgerblue;
+  background-color: #cbce91ff;
 }
 
 .clear:active {
-  background-color: rgb(123, 189, 255);
+  background-color: #cbce91ff);
 }
 
 .sign {
-  background-color: dodgerblue;
+  background-color: #cbce91ff;
 }
 
 .sign:active {
-  background-color: rgb(123, 189, 255);
+  background-color: #cbce91ff;
 }
 
 .percent {
-  background-color: dodgerblue;
+  background-color: #cbce91ff;
 }
 
 .percent:active {
-  background-color: rgb(123, 189, 255);
+  background-color: #cbce91ff);
 }
